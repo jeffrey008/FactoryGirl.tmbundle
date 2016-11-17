@@ -7,8 +7,10 @@ INSTALATION:
 ------------
 
     cd ~/Library/Application\ Support/TextMate/Bundles
-    git clone git://github.com/endeepak/FactoryGirl.tmbundle.git
+    git clone https://github.com/jeffrey008/FactoryGirl.tmbundle.git
     osascript -e 'tell app "TextMate" to reload bundles'
+    
+Restart TextMate
 
 LICENSE:
 --------
